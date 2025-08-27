@@ -1,0 +1,14 @@
+{
+	"name": "LS_aws_s3",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AmazonS3",
+		"typeProperties": {
+			"serviceUrl": "https://s3.amazonaws.com",
+			"accessKeyId": "AKIA4XUJSF5WMGW2ENHL",
+			"authenticationType": "AccessKey",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDU4NzFBNkFDLURDRTYtNDkwNi04NzYyLUE5OEUxMkEyMzQyMF9lYWQ0MGJlZC1iZjg4LTRmY2MtYTEyZi03ODZhMGExYzY0MGYiDQp9"
+		}
+	}
+}
